@@ -7,6 +7,7 @@ Notes about Blender
 ## Geometry Nodes
 
 ### Rotation Of Instanced Objects
+- [Align Euler To Vector](https://www.youtube.com/watch?v=0E1K9j9zoik)
 - [Rotation Of Instanced Objects](https://youtu.be/ATiU1T06EmQ?t=197)
 
 ### Chains
